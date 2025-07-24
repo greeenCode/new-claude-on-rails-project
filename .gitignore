@@ -40,3 +40,7 @@
 .claude-on-rails/sessions/
 .claude-swarm/
 claude-swarm.log
+
+# GitHub CLI installation files
+gh_*
+gh-*
